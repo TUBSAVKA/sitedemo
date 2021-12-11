@@ -1,0 +1,35 @@
+* {
+	margin: 0;
+}
+
+body {
+	background-color: #505050
+}
+
+header {
+	background-color: #4e5452;
+	height: 80px;
+}
+
+nav {
+	background-color: #FFFFFF;
+	height: 40px;
+	position: absolute;
+	left: 25%;
+	right: 25%;
+}
+
+nav a {
+	color: #FFC0CB;
+	text-decoration: none;
+	display: inline-flex;
+
+}
+
+main {
+	background-color: #505050;
+}
+
+footer {
+	background-color: #4e5452;
+}
